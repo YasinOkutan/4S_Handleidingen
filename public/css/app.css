@@ -10,3 +10,15 @@ footer{
   position: fixed;
   text-align: center;
 }
+.jumbotron h1{
+  font-size: 40px;
+  font-weight: bold;
+}
+.col-md-8 .row{
+  background-color: #E9ECEF;
+  margin-bottom: 10px;
+  border-radius: 5px;
+.col-md-8 li a{
+  color: black;
+.col-md-8 li {
+  list-style: none;
