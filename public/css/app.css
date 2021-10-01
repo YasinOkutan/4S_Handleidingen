@@ -82,6 +82,13 @@ footer{
   font-weight: bold;
 }
 
+.manual_button{
+  background-color: #1D68A7;
+  border-radius: 5px;
+  border: none;
+  width: 175px;
+  height: 25px;
+}
 .col-md-8 .row{
   background-color: #E9ECEF;
   margin-bottom: 10px;
